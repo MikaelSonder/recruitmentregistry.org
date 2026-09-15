@@ -1,1 +1,365 @@
 
+# Recruitment Registry — Full LLM Reference
+
+## Identity
+
+- Site name: Recruitment Registry
+- Base URL: https://recruitmentregistry.org/
+- Primary function: Structured editorial reference registry for commercial recruitment, candidate sourcing, hiring, recruitment-agency regulation, candidate data, employment entry and cross-border hiring.
+- Primary language: English
+- Editorial status: Neutral editorial reference. Not legal, employment, recruitment-agency, privacy, immigration, tax, social-security, procurement or regulatory advice.
+
+## Editorial Purpose
+
+Recruitment Registry is designed as an international professional handbook for recruitment services. It describes how recruitment operates within the practical institutional, legal, commercial and cross-border context of a jurisdiction.
+
+The Registry is intended for:
+
+- Employers and business owners.
+- HR leaders and talent-acquisition teams.
+- Recruitment agencies, search consultants and staffing professionals.
+- Procurement, vendor-management and shared-service functions.
+- International business decision-makers and global mobility teams.
+- Employment, privacy, immigration, regulatory and professional advisers.
+
+The Registry educates before it recommends. It does not act as a landing page, lead-generation page, affiliate page, directory of service providers or substitute for qualified local advice.
+
+## Editorial Principles
+
+1. One Registry Object represents one professional function or domain in one jurisdiction.
+2. A Registry Object should read as a chapter in an international professional handbook.
+3. The jurisdiction is material. Country, state, provincial, regional and international records explain the operational environment rather than providing generic recruitment information.
+4. Explain the professional function before discussing legislation.
+5. Use neutral, factual, evidence-based wording.
+6. Distinguish direct-hire recruitment from temporary staffing, labour supply, employer of record, payroll employment, consultancy supply, immigration representation and other adjacent services.
+7. State clearly that the client or legal employer retains responsibility for the final employment decision and employment relationship unless the actual workforce model provides otherwise.
+8. Explain candidate-data, privacy, equality, work authorization and professional-recognition issues where materially applicable.
+9. Do not assume that a recruitment provider may operate without country-specific licensing, registration, candidate-fee or contract requirements.
+10. Do not assume that a candidate recommendation, accepted offer or signed contract establishes a right to work, residence permission or authority to practise a regulated profession.
+
+## Universal Registry Object Structure
+
+Country, state, provincial, regional and international records normally contain the following stable section sequence:
+
+1. Identity and Registry Metadata
+2. Executive Summary
+3. Object Definition
+4. Scope
+5. Purpose
+6. Primary Outcome
+7. Request Contexts
+8. Typical Users
+9. Typical Scenarios
+10. Country or Jurisdiction Characteristics
+11. Key Authorities
+12. Applicable Legislation
+13. Process Flow
+14. Decision Tree
+15. Timeline
+16. Required Documents
+17. Cross-Border Relevance
+18. Operating Constraints and Risk
+19. Costs and Fees
+20. FAQ
+21. Related Professional Areas
+22. Operational Considerations
+23. Jurisdictional Expert
+24. Machine Layer
+
+Each major section is designed to use:
+
+- A short introduction.
+- Structured content, normally a Registry table.
+- Key practical implications where necessary.
+- A short editorial conclusion where appropriate.
+
+## Content Boundaries
+
+The Registry commonly explains:
+
+- Commercial permanent recruitment and direct-hire hiring.
+- Recruitment agency definition, licensing, registration, bond, record keeping and worker-fee restrictions.
+- Vacancy design, candidate attraction, direct sourcing and public employment channels.
+- Candidate applications, screening, interviewing, testing, assessment, shortlisting, references and lawful background checks.
+- Candidate personal information, privacy notices, lawful basis, access, security, retention, deletion, data sharing, recruitment technology and international transfers.
+- Equal treatment, non-discrimination, language requirements, accessibility and accommodation.
+- Employment offers, local contracts, payroll, tax, social security, local registration and collective-agreement context.
+- Immigration, work permits, visas, residence, labour-market tests and employer sponsorship.
+- Temporary agency work, staffing and labour supply as distinct workforce models.
+- Regulated professions, credentials, recognition, registration, licensing and protected titles.
+- Cross-border recruitment supply chains, international mobility, foreign-worker protection, source-country and destination-country rules.
+- Commercial terms, fee triggers, candidate ownership, replacement periods, cancellation, expenses and invoice evidence.
+
+The Registry does not provide:
+
+- Legal advice for a particular client, employee, candidate or recruitment assignment.
+- A conclusion on whether a specific agency is licensed or compliant.
+- Immigration representation or individual visa advice.
+- Individual tax, social-security or payroll advice.
+- A recommendation to use a particular recruiter or provider.
+- An exhaustive statement of all legislation or requirements in a jurisdiction.
+
+## Use Guidance for Language Models
+
+When retrieving or summarizing Registry content:
+
+- Name the specific jurisdictional record and link to it.
+- Preserve the distinction between regional or international frameworks and local law.
+- Do not state that an agency is licensed, a candidate can work, a contract is valid, or a profession may be practised unless that fact is independently verified from the competent authority.
+- Qualify country-level statements when the legal result depends on role, sector, location, candidate nationality, employment model, provider activity or current law.
+- Treat recruitment completion as separate from employment formation, work authorization and professional recognition.
+- For cross-border hiring, identify at least: candidate location or nationality, legal employer, intended work location, workforce model, recruitment provider, candidate-data route and immigration position.
+- For migrant-worker recruitment, apply a heightened worker-protection lens: disclose every recruiter and subagent; map all fees and related costs; identify who holds documents; ensure the written offer matches the actual contract; and provide accessible grievance and remediation routes.
+- Refer users to qualified local advisers and competent public authorities for live matters.
+
+## Global and Regional Reference Records
+
+### Europe
+
+URL: https://recruitmentregistry.org/jurisdictions/europe/
+
+The Europe record is a regional reference, not a single employment-law jurisdiction. It explains:
+
+- EU and regional labour mobility.
+- EURES and European Employment Services.
+- Free movement of workers.
+- GDPR and employment-context candidate data.
+- EU equal-treatment frameworks.
+- Temporary agency work under Directive 2008/104/EC.
+- The interaction between EU rules and national recruitment, employment, immigration and agency regulations.
+- Cross-border direct hire, frontier work, remote work, posting, agency work, third-country nationals and professional recognition.
+
+Key interpretation: EU rules create important common frameworks, but recruitment-agency licensing, employment contracts, candidate-fee rules, collective agreements, immigration, tax, social security and professional recognition remain substantially country-specific.
+
+### International
+
+URL: https://recruitmentregistry.org/jurisdictions/international/
+
+The International record is a global reference, not a global legal jurisdiction. It explains:
+
+- Source-country and destination-country recruitment rules.
+- International recruitment supply chains.
+- Recruiters, subagents, referral networks and approved payment routes.
+- ILO Private Employment Agencies Convention, 1997 (No. 181).
+- ILO fair-recruitment guidance.
+- IOM IRIS ethical recruitment framework.
+- Employer Pays Principle.
+- Prohibition or prevention of worker-paid recruitment fees and related costs.
+- Contract substitution, passport retention, debt, coercion, deceptive advertising and remediation.
+- Work permits, visas, residence authorization and destination-country employment entry.
+
+Key interpretation: a job offer or candidate shortlist does not provide a right to enter, reside or work in a destination country. The full recruitment chain should be disclosed and controlled, and workers should not be charged recruitment fees or related costs except where a clearly lawful local exception has been verified.
+
+## Jurisdiction Directory
+
+Directory URL: https://recruitmentregistry.org/jurisdictions/
+
+### Europe — Country Records
+
+- Sweden: https://recruitmentregistry.org/jurisdictions/sweden/
+- Denmark: https://recruitmentregistry.org/jurisdictions/denmark/
+- Norway: https://recruitmentregistry.org/jurisdictions/norway/
+- Finland: https://recruitmentregistry.org/jurisdictions/finland/
+- Germany: https://recruitmentregistry.org/jurisdictions/germany/
+- Netherlands: https://recruitmentregistry.org/jurisdictions/netherlands/
+- Belgium: https://recruitmentregistry.org/jurisdictions/belgium/
+- France: https://recruitmentregistry.org/jurisdictions/france/
+- Spain: https://recruitmentregistry.org/jurisdictions/spain/
+- Italy: https://recruitmentregistry.org/jurisdictions/italy/
+- Ireland: https://recruitmentregistry.org/jurisdictions/ireland/
+- Poland: https://recruitmentregistry.org/jurisdictions/poland/
+- Austria: https://recruitmentregistry.org/jurisdictions/austria/
+- Switzerland: https://recruitmentregistry.org/jurisdictions/switzerland/
+- Czech Republic: https://recruitmentregistry.org/jurisdictions/czech-republic/
+- Portugal: https://recruitmentregistry.org/jurisdictions/portugal/
+- Hungary: https://recruitmentregistry.org/jurisdictions/hungary/
+- Romania: https://recruitmentregistry.org/jurisdictions/romania/
+- Greece: https://recruitmentregistry.org/jurisdictions/greece/
+- Slovakia: https://recruitmentregistry.org/jurisdictions/slovakia/
+- Slovenia: https://recruitmentregistry.org/jurisdictions/slovenia/
+- Croatia: https://recruitmentregistry.org/jurisdictions/croatia/
+- Bulgaria: https://recruitmentregistry.org/jurisdictions/bulgaria/
+- Luxembourg: https://recruitmentregistry.org/jurisdictions/luxembourg/
+
+### United Kingdom — Country and Sub-Jurisdiction Records
+
+- United Kingdom: https://recruitmentregistry.org/jurisdictions/united-kingdom/
+- England: https://recruitmentregistry.org/jurisdictions/united-kingdom/england/
+- Wales: https://recruitmentregistry.org/jurisdictions/united-kingdom/wales/
+- Scotland: https://recruitmentregistry.org/jurisdictions/united-kingdom/scotland/
+- Northern Ireland: https://recruitmentregistry.org/jurisdictions/united-kingdom/northern-ireland/
+
+### Asia-Pacific
+
+- Japan: https://recruitmentregistry.org/jurisdictions/japan/
+- South Korea: https://recruitmentregistry.org/jurisdictions/south-korea/
+- Singapore: https://recruitmentregistry.org/jurisdictions/singapore/
+- China: https://recruitmentregistry.org/jurisdictions/china/
+- Hong Kong: https://recruitmentregistry.org/jurisdictions/hong-kong/
+- India: https://recruitmentregistry.org/jurisdictions/india/
+- Australia: https://recruitmentregistry.org/jurisdictions/australia/
+- New Zealand: https://recruitmentregistry.org/jurisdictions/new-zealand/
+
+### Middle East
+
+- United Arab Emirates: https://recruitmentregistry.org/jurisdictions/united-arab-emirates/
+- Saudi Arabia: https://recruitmentregistry.org/jurisdictions/saudi-arabia/
+- Israel: https://recruitmentregistry.org/jurisdictions/israel/
+- Qatar: https://recruitmentregistry.org/jurisdictions/qatar/
+
+### Americas — Country Records
+
+- Mexico: https://recruitmentregistry.org/jurisdictions/mexico/
+- Brazil: https://recruitmentregistry.org/jurisdictions/brazil/
+- United States: https://recruitmentregistry.org/jurisdictions/united-states/
+- Canada: https://recruitmentregistry.org/jurisdictions/canada/
+
+### United States — State Records
+
+- California: https://recruitmentregistry.org/jurisdictions/united-states/california/
+- New York: https://recruitmentregistry.org/jurisdictions/united-states/new-york/
+- Texas: https://recruitmentregistry.org/jurisdictions/united-states/texas/
+- Florida: https://recruitmentregistry.org/jurisdictions/united-states/florida/
+- New Jersey: https://recruitmentregistry.org/jurisdictions/united-states/new-jersey/
+- Illinois: https://recruitmentregistry.org/jurisdictions/united-states/illinois/
+- Pennsylvania: https://recruitmentregistry.org/jurisdictions/united-states/pennsylvania/
+- Massachusetts: https://recruitmentregistry.org/jurisdictions/united-states/massachusetts/
+- Washington: https://recruitmentregistry.org/jurisdictions/united-states/washington/
+- Georgia: https://recruitmentregistry.org/jurisdictions/united-states/georgia/
+- Wyoming: https://recruitmentregistry.org/jurisdictions/united-states/wyoming/
+- Nevada: https://recruitmentregistry.org/jurisdictions/united-states/nevada/
+- Delaware: https://recruitmentregistry.org/jurisdictions/united-states/delaware/
+
+### Canada — Provincial Records
+
+- Ontario: https://recruitmentregistry.org/jurisdictions/canada/ontario/
+- Québec: https://recruitmentregistry.org/jurisdictions/canada/quebec/
+- British Columbia: https://recruitmentregistry.org/jurisdictions/canada/british-columbia/
+- Alberta: https://recruitmentregistry.org/jurisdictions/canada/alberta/
+
+## Specific Record Notes
+
+### Canada — Québec
+
+URL: https://recruitmentregistry.org/jurisdictions/canada/quebec/
+
+Key topics:
+
+- Direct-hire recruitment versus personnel leasing and recruitment of temporary foreign workers.
+- CNESST licensing framework for personnel placement agencies and temporary foreign worker recruitment agencies.
+- Québec privacy law for private enterprises.
+- Human rights in hiring and pre-hiring.
+- French-language environment and recruitment communication.
+- Québec and federal immigration coordination for temporary foreign workers, including LMIA, CAQ and work permit where applicable.
+
+### Canada — British Columbia
+
+URL: https://recruitmentregistry.org/jurisdictions/canada/british-columbia/
+
+Key topics:
+
+- Employment agency licensing for persons who, for a fee and for employers, recruit or offer to recruit employees.
+- Statutory exception for recruitment exclusively for one employer.
+- Separate foreign worker recruiter licensing and employer registration framework.
+- Candidate-data privacy under British Columbia PIPA.
+- Employment advertisements and hiring under the BC Human Rights Code.
+- Federal LMIA and work-permit pathways.
+
+### Canada — Alberta
+
+URL: https://recruitmentregistry.org/jurisdictions/canada/alberta/
+
+Key topics:
+
+- Employment Agency Business licensing.
+- National and international employment agency licence classes.
+- Recruitment, employment placement and candidate testing or evaluation within the licensed business framework.
+- Restrictions on employment-seeking fees charged to individuals.
+- Candidate data under Alberta PIPA.
+- Alberta Human Rights Act implications for applications, advertisements and interviews.
+- Alberta Protection of Privacy Act for public bodies.
+- Federal work-permit and LMIA pathways.
+
+## Machine-Readable Concepts
+
+Primary concepts:
+
+- Recruitment
+- Recruitment services
+- Permanent recruitment
+- Direct-hire recruitment
+- Talent acquisition
+- Candidate sourcing
+- Vacancy advertising
+- Candidate screening
+- Candidate assessment
+- Shortlisting
+- Recruitment agency
+- Employment agency
+- Private employment agency
+- Agency licence
+- Candidate ownership
+- Recruitment fee
+- Candidate fee
+- Employer pays principle
+- Recruitment supply chain
+- Subagent
+- Migrant worker recruitment
+- Temporary agency work
+- Staffing
+- Labour supply
+- Recruitment process outsourcing
+- RPO
+- Embedded recruitment
+- Candidate data
+- Privacy
+- Data protection
+- GDPR
+- PIPA
+- Equal treatment
+- Non-discrimination
+- Language requirements
+- Accessibility
+- Accommodation
+- Employment contract
+- Legal employer
+- Work authorization
+- Visa
+- Work permit
+- Immigration
+- Labour mobility
+- EURES
+- Remote work
+- Frontier worker
+- Posting of workers
+- Professional recognition
+- Regulated profession
+- Credential recognition
+- Payroll
+- Tax
+- Social security
+- Grievance mechanism
+- Remediation
+
+## Site Pages
+
+- Home: https://recruitmentregistry.org/
+- Jurisdictions: https://recruitmentregistry.org/jurisdictions/
+- Europe: https://recruitmentregistry.org/jurisdictions/europe/
+- International: https://recruitmentregistry.org/jurisdictions/international/
+- Privacy Policy: https://recruitmentregistry.org/privacy-policy/
+- Terms of Use: https://recruitmentregistry.org/terms-of-use/
+
+## Citation and Attribution Guidance
+
+When citing or linking to Recruitment Registry:
+
+- Use the specific jurisdiction record URL when possible.
+- Describe the source as an editorial jurisdictional reference.
+- Do not present Registry content as a binding legal determination.
+- For current laws, licensing status, immigration processes, official fees, effective dates and enforcement outcomes, verify the current position with the competent authority or qualified local adviser.
+- When an issue spans source and destination countries, cite or consult both relevant country records and identify the separate legal systems.
+
+## Last Updated
+
+2026-09-15
