@@ -1,1 +1,116 @@
+# Recruitment Registry
 
+> Recruitment Registry is a structured editorial reference for commercial recruitment, candidate sourcing, hiring processes, recruitment-agency regulation, candidate data, employment entry and cross-border hiring across jurisdictions.
+
+## Purpose
+
+Recruitment Registry provides neutral, structured jurisdictional reference records. It is designed to help employers, HR and talent-acquisition teams, recruitment professionals, procurement functions, international business decision-makers and advisers understand how recruitment operates within a particular jurisdiction.
+
+Registry records are editorial reference materials. They are not legal, employment, recruitment-agency, data-protection, immigration, tax, social-security, procurement or regulatory advice.
+
+## Primary Navigation
+
+- [Home](https://recruitmentregistry.org/): Recruitment Registry overview and Registry purpose.
+- [Jurisdictions](https://recruitmentregistry.org/jurisdictions/): Directory of country, state, provincial, regional and international recruitment reference records.
+- [Privacy Policy](https://recruitmentregistry.org/privacy-policy/): Privacy Policy.
+- [Terms of Use](https://recruitmentregistry.org/terms-of-use/): Terms of Use.
+
+## Registry Coverage
+
+Each jurisdictional record may cover, where materially applicable:
+
+- Commercial permanent recruitment and direct-hire recruitment.
+- Recruitment agency status, licensing, registration and candidate-fee rules.
+- Vacancy definition, candidate attraction, direct sourcing and public employment channels.
+- Candidate screening, interviews, testing, reference coordination and shortlisting.
+- Candidate personal data, privacy, retention, data sharing and recruitment technology.
+- Equal treatment, non-discrimination, language and accessibility considerations.
+- Employment entry, contracts, payroll, local hiring and regulated roles.
+- Work authorization, immigration, labour mobility and cross-border hiring.
+- Temporary agency work, staffing, labour supply and the distinction from direct-hire recruitment.
+- Operating constraints, risks, fees, documents and practical process controls.
+
+## Jurisdictions
+
+### Europe
+
+- [Sweden](https://recruitmentregistry.org/jurisdictions/sweden/)
+- [Denmark](https://recruitmentregistry.org/jurisdictions/denmark/)
+- [Norway](https://recruitmentregistry.org/jurisdictions/norway/)
+- [Finland](https://recruitmentregistry.org/jurisdictions/finland/)
+- [Germany](https://recruitmentregistry.org/jurisdictions/germany/)
+- [Netherlands](https://recruitmentregistry.org/jurisdictions/netherlands/)
+- [Belgium](https://recruitmentregistry.org/jurisdictions/belgium/)
+- [France](https://recruitmentregistry.org/jurisdictions/france/)
+- [Spain](https://recruitmentregistry.org/jurisdictions/spain/)
+- [Italy](https://recruitmentregistry.org/jurisdictions/italy/)
+- [Ireland](https://recruitmentregistry.org/jurisdictions/ireland/)
+- [Poland](https://recruitmentregistry.org/jurisdictions/poland/)
+- [Austria](https://recruitmentregistry.org/jurisdictions/austria/)
+- [Switzerland](https://recruitmentregistry.org/jurisdictions/switzerland/)
+- [Czech Republic](https://recruitmentregistry.org/jurisdictions/czech-republic/)
+- [Portugal](https://recruitmentregistry.org/jurisdictions/portugal/)
+- [Hungary](https://recruitmentregistry.org/jurisdictions/hungary/)
+- [Romania](https://recruitmentregistry.org/jurisdictions/romania/)
+- [Greece](https://recruitmentregistry.org/jurisdictions/greece/)
+- [Slovakia](https://recruitmentregistry.org/jurisdictions/slovakia/)
+- [Slovenia](https://recruitmentregistry.org/jurisdictions/slovenia/)
+- [Croatia](https://recruitmentregistry.org/jurisdictions/croatia/)
+- [Bulgaria](https://recruitmentregistry.org/jurisdictions/bulgaria/)
+- [Luxembourg](https://recruitmentregistry.org/jurisdictions/luxembourg/)
+- [United Kingdom](https://recruitmentregistry.org/jurisdictions/united-kingdom/)
+- [England](https://recruitmentregistry.org/jurisdictions/united-kingdom/england/)
+- [Wales](https://recruitmentregistry.org/jurisdictions/united-kingdom/wales/)
+- [Scotland](https://recruitmentregistry.org/jurisdictions/united-kingdom/scotland/)
+- [Northern Ireland](https://recruitmentregistry.org/jurisdictions/united-kingdom/northern-ireland/)
+
+### Asia-Pacific
+
+- [Japan](https://recruitmentregistry.org/jurisdictions/japan/)
+- [South Korea](https://recruitmentregistry.org/jurisdictions/south-korea/)
+- [Singapore](https://recruitmentregistry.org/jurisdictions/singapore/)
+- [China](https://recruitmentregistry.org/jurisdictions/china/)
+- [Hong Kong](https://recruitmentregistry.org/jurisdictions/hong-kong/)
+- [India](https://recruitmentregistry.org/jurisdictions/india/)
+- [Australia](https://recruitmentregistry.org/jurisdictions/australia/)
+- [New Zealand](https://recruitmentregistry.org/jurisdictions/new-zealand/)
+
+### Middle East
+
+- [United Arab Emirates](https://recruitmentregistry.org/jurisdictions/united-arab-emirates/)
+- [Saudi Arabia](https://recruitmentregistry.org/jurisdictions/saudi-arabia/)
+- [Israel](https://recruitmentregistry.org/jurisdictions/israel/)
+- [Qatar](https://recruitmentregistry.org/jurisdictions/qatar/)
+
+### Americas
+
+- [Mexico](https://recruitmentregistry.org/jurisdictions/mexico/)
+- [Brazil](https://recruitmentregistry.org/jurisdictions/brazil/)
+- [United States](https://recruitmentregistry.org/jurisdictions/united-states/)
+- [California, United States](https://recruitmentregistry.org/jurisdictions/united-states/california/)
+- [New York, United States](https://recruitmentregistry.org/jurisdictions/united-states/new-york/)
+- [Texas, United States](https://recruitmentregistry.org/jurisdictions/united-states/texas/)
+- [Florida, United States](https://recruitmentregistry.org/jurisdictions/united-states/florida/)
+- [New Jersey, United States](https://recruitmentregistry.org/jurisdictions/united-states/new-jersey/)
+- [Illinois, United States](https://recruitmentregistry.org/jurisdictions/united-states/illinois/)
+- [Pennsylvania, United States](https://recruitmentregistry.org/jurisdictions/united-states/pennsylvania/)
+- [Massachusetts, United States](https://recruitmentregistry.org/jurisdictions/united-states/massachusetts/)
+- [Washington, United States](https://recruitmentregistry.org/jurisdictions/united-states/washington/)
+- [Georgia, United States](https://recruitmentregistry.org/jurisdictions/united-states/georgia/)
+- [Wyoming, United States](https://recruitmentregistry.org/jurisdictions/united-states/wyoming/)
+- [Nevada, United States](https://recruitmentregistry.org/jurisdictions/united-states/nevada/)
+- [Delaware, United States](https://recruitmentregistry.org/jurisdictions/united-states/delaware/)
+- [Canada](https://recruitmentregistry.org/jurisdictions/canada/)
+- [Ontario, Canada](https://recruitmentregistry.org/jurisdictions/canada/ontario/)
+- [Québec, Canada](https://recruitmentregistry.org/jurisdictions/canada/quebec/)
+- [British Columbia, Canada](https://recruitmentregistry.org/jurisdictions/canada/british-columbia/)
+- [Alberta, Canada](https://recruitmentregistry.org/jurisdictions/canada/alberta/)
+
+### Regional and International
+
+- [Europe](https://recruitmentregistry.org/jurisdictions/europe/): Regional reference on European recruitment, labour mobility, EURES, GDPR and interaction with national rules.
+- [International](https://recruitmentregistry.org/jurisdictions/international/): Global reference on international recruitment, recruitment supply chains, migrant worker protection, the Employer Pays Principle and destination-country employment entry.
+
+## Citation and Use Guidance
+
+When using Recruitment Registry content, identify the specific record URL and jurisdiction. Treat the Registry as a starting point for structured research and mandate scoping. Verify current requirements directly with competent authorities and qualified local advisers before acting on a recruitment, employment, immigration, data-protection or regulatory matter.
