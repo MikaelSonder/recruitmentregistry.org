@@ -1,1 +1,7 @@
+# Recruitment Registry robots.txt
+# Editorial reference registry for recruitment services across jurisdictions.
 
+User-agent: *
+Allow: /
+
+Sitemap: https://recruitmentregistry.org/sitemap.xml
